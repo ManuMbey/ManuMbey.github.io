@@ -1,0 +1,71 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Miage Analytics - Anlayse des données de Deezer</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!--CSS-->
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/style.css">
+        <!--JS-->
+        <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <script src="js/script.js"></script>
+        <script src="https://www.google.com/jsapi"></script>
+        <script>
+            // Chargement de la librairie et des packages nécessaires
+            google.load("visualization", "1.1", {packages:["table", "corechart"]});
+            google.setOnLoadCallback(go);
+        </script>
+    </head>
+    
+    <body>
+        <!-- Haut de page -->
+        <!-- Barre de navigation -->
+        <nav class="navbar navbar-inverse">
+          <div class="container-fluid">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="index.html">Miage Analytics</a>
+            </div>
+            <ul class="nav navbar-nav">
+              <li><a href="index.html">Accueil</a></li>
+              <li class="active"><a href="">Qu'est-ce que Deezer ?</a></li>
+              <li><a href="analyse1.html">Analyse 1</a></li> 
+              <li><a href="analyse2.html">Analyse 2</a></li> 
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="quisommesnous.html">Qui sommes-nous ?</a></li>
+            </ul>
+          </div>
+        </nav>
+
+        <!--Contenu-->
+        <div class="container-fluid">          
+          <h1>Qu'est-ce que c'est ?</h1>
+        </div>
+
+          <hr />
+        <div class="container-fluid">
+          <img src="img/deezer_icon.jpg" height="100" width="300">
+          <br />
+          <br />          
+          <p><b>Qu'est ce que c'est ?</b></p>
+          <p>C'est l’offre d’écoute gratuite, illimitée et légale de musique. Financée par la publicité, cette offre bouscule les habitudes d’écoute.<br/>
+          Sans se confondre avec une webradio, puisqu'un moteur permet d’exploiter la base et autorise la gestion des playlists,<br /> le système mis en place ressemble davantage au Joost de la musique.
+          Il n'aura ainsi pas à se confronter aux problèmes de légalité <br />
+          qui gâchent l'aventure YouTube et Dailymotion.</p>
+          <br />
+          <p><b>Comment fonctionne la lecture de musique?</b></p>
+          <p>L’applet flash, une fois la recherche effectuée, a une liste de musiques résultante de la recherche, avec pour chacune un PUID.<br /> 
+          Pour pouvoir lire une musique en particulier, elle doit exécuter une requete demandant le mp3 en spécifiant ce PUID unique.<br /> 
+          Elle recevra en réponse le mp3, qu’elle pourra jouer. Dysnomia, là encore, se contente d’imiter son comportement,<br />mais au lieu de jouer le mp3 reçu, il l’enregistre sur le disque. Cela permet de télécharger des musiques depuis deezer.<br/> 
+          En réalité, la demande de réception du mp3 est un peu plus compliquée qu’une simple requete précisant le PUID, pour des raisons de protection du contenu.</p>
+          <p><b>Lien utile:</b></p>
+          <p><a href="http://www.deezer.com/">http://www.deezer.com/</a></p>
+        </div>
+        <br />
+        <br />
+        
+    </body>
+</html>
