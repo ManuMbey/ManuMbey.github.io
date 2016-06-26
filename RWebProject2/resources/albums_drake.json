@@ -1,0 +1,188 @@
+{
+  "data":[
+    {
+      "id": "13082992",
+      "title": "Views",
+      "upc": "602547943514",
+      "link": "https://www.deezer.com/album/13082992",
+      "share": "http://www.deezer.com/album/13082992?utm_source=deezer&utm_content=album-13082992&utm_term=0_1466854239&utm_medium=web",
+      "cover": "https://api.deezer.com/album/13082992/image",
+      "cover_small": "https://cdns-images.dzcdn.net/images/cover/f42a9b3f041d22c93386186a83191011/56x56-000000-80-0-0.jpg",
+      "cover_medium": "https://cdns-images.dzcdn.net/images/cover/f42a9b3f041d22c93386186a83191011/250x250-000000-80-0-0.jpg",
+      "cover_big": "https://cdns-images.dzcdn.net/images/cover/f42a9b3f041d22c93386186a83191011/500x500-000000-80-0-0.jpg",
+      "genre_id": 116,
+      "genres": {
+        "data": [
+          {
+            "id": 116,
+            "name": "Rap/Hip Hop",
+            "picture": "https://api.deezer.com/genre/116/image",
+            "type": "genre"
+          }
+        ]
+      },
+      "label": "Universal Music Division Def Jam Recordings France",
+      "nb_tracks": 20,
+      "duration": 4865,
+      "fans": 146865,
+      "rating": 0,
+      "release_date": "2016-05-06",
+      "record_type": "album",
+      "available": true,
+      "tracklist": "https://api.deezer.com/album/13082992/tracks",
+      "explicit_lyrics": true
+    },
+    {
+      "id": "9691186",
+      "title": "If You're Reading This It's Too Late",
+      "upc": "602547261915",
+      "link": "https://www.deezer.com/album/9691186",
+      "share": "http://www.deezer.com/album/9691186?utm_source=deezer&utm_content=album-9691186&utm_term=0_1466854794&utm_medium=web",
+      "cover": "https://api.deezer.com/album/9691186/image",
+      "cover_small": "https://cdns-images.dzcdn.net/images/cover/7395aafc4135f8e57a1b51292623bbb0/56x56-000000-80-0-0.jpg",
+      "cover_medium": "https://cdns-images.dzcdn.net/images/cover/7395aafc4135f8e57a1b51292623bbb0/250x250-000000-80-0-0.jpg",
+      "cover_big": "https://cdns-images.dzcdn.net/images/cover/7395aafc4135f8e57a1b51292623bbb0/500x500-000000-80-0-0.jpg",
+      "genre_id": 116,
+      "genres": {
+        "data": [
+          {
+            "id": 116,
+            "name": "Rap/Hip Hop",
+            "picture": "https://api.deezer.com/genre/116/image",
+            "type": "genre"
+          },
+          {
+            "id": 202,
+            "name": "East Coast",
+            "picture": "https://api.deezer.com/genre/202/image",
+            "type": "genre"
+          }
+        ]
+      },
+      "label": "Universal Music Division Def Jam Recordings France",
+      "nb_tracks": 17,
+      "duration": 4119,
+      "fans": 130100,
+      "rating": 0,
+      "release_date": "2015-02-13",
+      "record_type": "album",
+      "available": true,
+      "tracklist": "https://api.deezer.com/album/9691186/tracks",
+      "explicit_lyrics": true
+    },
+    {
+      "id": "6941024",
+      "title": "Nothing Was The Same",
+      "upc": "602537570553",
+      "link": "https://www.deezer.com/album/6941024",
+      "share": "http://www.deezer.com/album/6941024?utm_source=deezer&utm_content=album-6941024&utm_term=0_1466854940&utm_medium=web",
+      "cover": "https://api.deezer.com/album/6941024/image",
+      "cover_small": "https://cdns-images.dzcdn.net/images/cover/3e7c8d270b45fe2152305543445694ce/56x56-000000-80-0-0.jpg",
+      "cover_medium": "https://cdns-images.dzcdn.net/images/cover/3e7c8d270b45fe2152305543445694ce/250x250-000000-80-0-0.jpg",
+      "cover_big": "https://cdns-images.dzcdn.net/images/cover/3e7c8d270b45fe2152305543445694ce/500x500-000000-80-0-0.jpg",
+      "genre_id": 116,
+      "genres": {
+        "data": [
+          {
+            "id": 116,
+            "name": "Rap/Hip Hop",
+            "picture": "https://api.deezer.com/genre/116/image",
+            "type": "genre"
+          }
+        ]
+      },
+      "label": "Universal Music Division Def Jam Recordings France",
+      "nb_tracks": 16,
+      "duration": 4314,
+      "fans": 254551,
+      "rating": 0,
+      "release_date": "2013-09-20",
+      "record_type": "album",
+      "available": true,
+      "tracklist": "https://api.deezer.com/album/6941024/tracks",
+      "explicit_lyrics": true
+    },
+    {
+      "id": "1622724",
+      "title": "Take Care",
+      "upc": "602537004669",
+      "link": "https://www.deezer.com/album/1622724",
+      "share": "http://www.deezer.com/album/1622724?utm_source=deezer&utm_content=album-1622724&utm_term=0_1466854992&utm_medium=web",
+      "cover": "https://api.deezer.com/album/1622724/image",
+      "cover_small": "https://cdns-images.dzcdn.net/images/cover/403fddb5184b36a3ea9379c6f7cbba9b/56x56-000000-80-0-0.jpg",
+      "cover_medium": "https://cdns-images.dzcdn.net/images/cover/403fddb5184b36a3ea9379c6f7cbba9b/250x250-000000-80-0-0.jpg",
+      "cover_big": "https://cdns-images.dzcdn.net/images/cover/403fddb5184b36a3ea9379c6f7cbba9b/500x500-000000-80-0-0.jpg",
+      "genre_id": 116,
+      "genres": {
+        "data": [
+          {
+            "id": 116,
+            "name": "Rap/Hip Hop",
+            "picture": "https://api.deezer.com/genre/116/image",
+            "type": "genre"
+          }
+        ]
+      },
+      "label": "Universal Music Division Def Jam Recordings France",
+      "nb_tracks": 19,
+      "duration": 4998,
+      "fans": 178901,
+      "rating": 0,
+      "release_date": "2012-03-16",
+      "record_type": "album",
+      "available": true,
+      "tracklist": "https://api.deezer.com/album/1622724/tracks",
+      "explicit_lyrics": true
+    },
+    {
+      "id": "576747",
+      "title": "Thank Me Later",
+      "upc": "602527433073",
+      "link": "https://www.deezer.com/album/576747",
+      "share": "http://www.deezer.com/album/576747?utm_source=deezer&utm_content=album-576747&utm_term=0_1466855097&utm_medium=web",
+      "cover": "https://api.deezer.com/album/576747/image",
+      "cover_small": "https://cdns-images.dzcdn.net/images/cover/d54ba01b08a9d8ef267129742b5c0f50/56x56-000000-80-0-0.jpg",
+      "cover_medium": "https://cdns-images.dzcdn.net/images/cover/d54ba01b08a9d8ef267129742b5c0f50/250x250-000000-80-0-0.jpg",
+      "cover_big": "https://cdns-images.dzcdn.net/images/cover/d54ba01b08a9d8ef267129742b5c0f50/500x500-000000-80-0-0.jpg",
+      "genre_id": 116,
+      "genres": {
+        "data": [
+          {
+            "id": 116,
+            "name": "Rap/Hip Hop",
+            "picture": "https://api.deezer.com/genre/116/image",
+            "type": "genre"
+          },
+          {
+            "id": 132,
+            "name": "Pop",
+            "picture": "https://api.deezer.com/genre/132/image",
+            "type": "genre"
+          },
+          {
+            "id": 165,
+            "name": "R&B",
+            "picture": "https://api.deezer.com/genre/165/image",
+            "type": "genre"
+          },
+          {
+            "id": 166,
+            "name": "R&B contemporain",
+            "picture": "https://api.deezer.com/genre/166/image",
+            "type": "genre"
+          }
+        ]
+      },
+      "label": "Universal Music Division Def Jam Recordings France",
+      "nb_tracks": 15,
+      "duration": 3920,
+      "fans": 83975,
+      "rating": 0,
+      "release_date": "2010-06-11",
+      "record_type": "album",
+      "available": true,
+      "tracklist": "https://api.deezer.com/album/576747/tracks",
+      "explicit_lyrics": true
+    }
+  ],
+}

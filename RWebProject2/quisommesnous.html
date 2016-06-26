@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Miage Analytics - Anlayse des données de Deezer</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!--CSS-->
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/style.css">
+        <!--JS-->
+        <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <script src="js/script.js"></script>
+        <script src="https://www.google.com/jsapi"></script>
+        <script>
+            // Chargement de la librairie et des packages nécessaires
+            google.load("visualization", "1.1", {packages:["table", "corechart"]});
+            google.setOnLoadCallback(go);
+        </script>
+    </head>
+    
+    <body>
+        <!-- Haut de page -->
+        <!-- Barre de navigation -->
+        <nav class="navbar navbar-inverse">
+          <div class="container-fluid">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="index.html">Miage Analytics</a>
+            </div>
+            <ul class="nav navbar-nav">
+              <li><a href="index.html">Accueil</a></li>
+              <li><a href="deezer.html">Qu'est-ce que Deezer ?</a></li>
+              <li><a href="analyse1.html">Analyse 1</a></li> 
+              <li><a href="analyse2.html">Analyse 2</a></li> 
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li class="active"><a href="">Qui sommes-nous ?</a></li>
+            </ul>
+          </div>
+        </nav>
+
+        <!--Contenu-->
+        <h1>Développeurs</h1>
+        <hr />
+        <div class="container">
+
+            <center><img src="img/Emmanuel.PNG" height="120" width="100">
+            <h4><p><b>Emmanuel MBEY</b></p></h4></center>
+            <p>Etudiant en Master 1 MIAGE à <b>l'Université Paris V Descartes</b>, Emmanuel a eu l'occasion d'effectuer un <b>stage dans l'entreprise Sotravo</b>, une PME mettant en relation les particuliers et les artisans du BTP. Il était en charge de la <b>refonte de l'interface CRM</b> de l'entreprise. Emmanuel possède des compétences dans l'utilisation du framework <b>Symfony</b> grâce à ce stage et divers projets qui l'a eu à concevoir au cours de son parcours universitaire. Après son Master, Emmanuel aimerait obtenir un <b>VIE</b> afin de développer une expérience internationale puis effectuer un Master spécialisé dans le <b>Big Data</b>.</p><br/>
+            
+            <center><img src="img/jeremy.png" height="120" width="100">
+            <h4><p><b>Jeremy TUD</b></p></h4></center>
+            <p>Etudiant aussi dans la même Université que son collègue, Emmanuel, Jeremy est actuellement en contrat professionnel chez l'un des <b>big four</b>, à savoir, <b>Sopra Steria</b>. Il travaille en tant que <b>développeur</b> et effectue des <b>tâches pour la DSI</b> de la firme. Il possède des compétences en <b>PHP, Java et Symfony</b>. Après son Master, Jeremy aimerait continuer chez Sopra Steria en tant que développeur pour, ensuite, devenir <b>manager</b>. </p>
+            <br/>
+            <br/>
+          <center><img src="img/logo_descartes.png" height="" width=""></center>
+          <br/>
+          <br/>
+       </div>
+    </body>
+</html>
